@@ -5,7 +5,7 @@
     "license": "MIT",
     "scripts": {
         "build": "node ./build.js",
-        "deploy": "np"
+        "deploy": "np --no-tests"
     },
     "devDependencies": {
         "@types/node": "^16.11.6",
