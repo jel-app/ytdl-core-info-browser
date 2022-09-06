@@ -1,25 +1,27 @@
 {
     "name": "ytdl-core-info-browser",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "./dist/ytdl.js",
     "license": "MIT",
     "scripts": {
-        "build": "node ./build.js"
+        "build": "node ./build.js",
+        "deploy": "np"
     },
     "devDependencies": {
         "@types/node": "^16.11.6",
         "browserify": "^17.0.0",
+        "np": "^7.6.2",
         "proxyquireify": "^3.2.1",
         "replace-in-file": "^6.3.2",
         "terser": "^5.12.0",
         "tsify": "^5.0.4",
         "typescript": "^4.4.4",
-        "ytdl-core": "^4.11.0",
+        "ytdl-core": "^4",
         "ytpl": "^2.3.0",
         "ytsr": "^3.6.0"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mrgick/ytdl-core-info-browser.git"
+        "url": "git+https://github.com/jel-app/ytdl-core-info-browser.git"
     }
 }
