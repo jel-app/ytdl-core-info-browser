@@ -1,5 +1,5 @@
 {
-    "name": "ytdl-core-info-browser",
+    "name": "ytdl-browser",
     "version": "1.0.4",
     "main": "./dist/ytdl.js",
     "license": "MIT",
