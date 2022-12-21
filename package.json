@@ -22,6 +22,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jel-app/ytdl-core-info-browser.git"
+        "url": "git+https://github.com/webspace-sdk/ytdl-core-info-browser.git"
     }
 }
